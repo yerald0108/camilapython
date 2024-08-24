@@ -1,0 +1,17 @@
+{
+    "Becjucal": "CMF #17",
+    "Familia 1": [
+        {
+            "Integrante 1": {
+                "Nombre": "Yerald",
+                "Edad": 23,
+                "Sexo": "M",
+                "Raza": "M",
+                "Enfermedades": [
+                    "AB",
+                    "DM"
+                ]
+            }
+        }
+    ]
+}
