@@ -12,6 +12,18 @@
                     "DM"
                 ]
             }
+        },
+        {
+            "Integrante 2": {
+                "Nombre": "Camila",
+                "Edad": 24,
+                "Sexo": "F",
+                "Raza": "M",
+                "Enfermedades": [
+                    "HTA",
+                    "OB"
+                ]
+            }
         }
     ],
     "Familia 2": [
