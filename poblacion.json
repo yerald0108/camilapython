@@ -13,5 +13,19 @@
                 ]
             }
         }
+    ],
+    "Familia 2": [
+        {
+            "Integrante 1": {
+                "Nombre": "Maida",
+                "Edad": 57,
+                "Sexo": "F",
+                "Raza": "B",
+                "Enfermedades": [
+                    "FU",
+                    "AB"
+                ]
+            }
+        }
     ]
 }
