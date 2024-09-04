@@ -38,6 +38,18 @@
                     "AB"
                 ]
             }
+        },
+        {
+            "Integrante 2": {
+                "Nombre": "Tomas",
+                "Edad": 67,
+                "Sexo": "M",
+                "Raza": "M",
+                "Enfermedades": [
+                    "FU",
+                    "OB"
+                ]
+            }
         }
     ]
 }
